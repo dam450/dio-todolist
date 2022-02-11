@@ -13,10 +13,22 @@ h1.title {
   font-family: 'Covered By Your Grace', cursive;
 }
 
+#task-adder > label input button {
+  margin: 8px;
+}
+
 #task-list {
   color: black;
   list-style-type: none;
   padding: 0;
+}
+
+li {
+  margin: 15px 0;
+}
+
+li > input {
+  margin-right: 15px;
 }
 
 .done {
