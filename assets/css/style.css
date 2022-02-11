@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Permanent+Marker&family=Roboto:wght@300;400;700&display=swap');
+/* 
+font-family: 'Covered By Your Grace', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Roboto', sans-serif; 
+*/
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1.title {
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+#task-list {
+  color: black;
+  list-style-type: none;
+  padding: 0;
+}
+
+.done {
+  text-decoration: line-through;
+}
